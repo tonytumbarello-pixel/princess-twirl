@@ -1,6 +1,6 @@
 # Princess Twirl
 
-**Play the game:** [https://tonytumbarello-pixel.github.io/princess-twirl/](https://tonytumbarello-pixel.github.io/princess-twirl/)
+**Play the game:** [https://cdn.jsdelivr.net/gh/tonytumbarello-pixel/princess-twirl@main/docs/index.html](https://cdn.jsdelivr.net/gh/tonytumbarello-pixel/princess-twirl@main/docs/index.html)
 
 Open that link. Nothing to install. It works on a phone or a computer.
 

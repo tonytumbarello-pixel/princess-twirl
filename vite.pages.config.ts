@@ -6,7 +6,7 @@ import tailwindcss from "@tailwindcss/vite";
 /** Static copy of the game for GitHub Pages. The live preview keeps using vite.config.ts. */
 export default defineConfig({
   root: "pages",
-  base: "/princess-twirl/",
+  base: "./",
   publicDir: "../public",
   resolve: {
     alias: { "@": fileURLToPath(new URL("./src", import.meta.url)) },
